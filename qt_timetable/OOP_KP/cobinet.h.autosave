@@ -1,0 +1,13 @@
+#ifndef COBINET_H
+#define COBINET_H
+#include <String>
+
+class cobinet
+{
+    std::string cab;
+    String address;
+public:
+    cobinet();
+};
+
+#endif // COBINET_H

@@ -1,0 +1,11 @@
+﻿  SAOD_KP_Kitel.cpp
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(79,44): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(110,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(139,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(141,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(155,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(464): warning C4715: addEl: значение возвращается не при всех путях выполнения
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(470): warning C4715: find_min: значение возвращается не при всех путях выполнения
+C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\SAOD_KP_Kitel\SAOD_KP_Kitel.cpp(825): warning C4715: function_doctor: значение возвращается не при всех путях выполнения
+  SAOD_KP_Kitel.vcxproj -> C:\Users\wwwbo\source\repos\SAOD_KP_Kitel\Debug\SAOD_KP_Kitel.exe
